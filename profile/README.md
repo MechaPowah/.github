@@ -5,3 +5,11 @@ We provide help with music distribution, top-level domain email (@mechapower.eu)
 
 # Contact
 Visit https://www.mechapower.eu for more info
+
+## Developers 
+
+<!-- DEVELOPERS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+ <a href="https://github.com/ddomino007"><img src="https://avatars.githubusercontent.com/u/23064460?v=4" width="50" height="50" alt=""/></a> <a href="https://github.com/WhenDawnEnds"><img src="https://avatars.githubusercontent.com/u/38332833?v=4" width="50" height="50" alt=""/></a> <a href="https://github.com/MatroskaMods"><img src="https://avatars.githubusercontent.com/u/94531272?v=4" width="50" height="50" alt=""/>
+<!-- DEVELOPERS-LIST:END -->
