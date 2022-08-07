@@ -3,8 +3,9 @@ MechaPower is a media group focused on creating art, music, games and many more.
 
 We provide help with music distribution, top-level domain email (@mechapower.eu) and a friendly enviroment to work together in (Discord server).
 
-# Contact
+# Contact and socials
 Visit https://www.mechapower.eu/contact for more info
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtjMF7cFmoYqavwRc-xdW3g?label=Subscribe)](https://www.youtube.com/channel/UCtjMF7cFmoYqavwRc-xdW3g?sub_confirmation=1)
 
 ## Developers 
 
