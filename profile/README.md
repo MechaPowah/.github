@@ -6,7 +6,7 @@ We provide help with music distribution, top-level domain email (@mechapower.eu)
 # Contact and socials
 Visit https://www.mechapower.eu/contact for more info
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtjMF7cFmoYqavwRc-xdW3g?label=Subscribe)](https://www.youtube.com/channel/UCtjMF7cFmoYqavwRc-xdW3g?sub_confirmation=1) [![Twitter Follow](https://img.shields.io/twitter/follow/mechapowah)](https://twitter.com/mechapowah)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtjMF7cFmoYqavwRc-xdW3g?label=Subscribe)](https://www.youtube.com/channel/UCtjMF7cFmoYqavwRc-xdW3g?sub_confirmation=1) [![Twitter Follow](https://img.shields.io/twitter/follow/mechapowah)](https://twitter.com/mechapowah) 
 
 ## Developers 
 
@@ -19,3 +19,5 @@ Visit https://www.mechapower.eu/contact for more info
 ## System status
 ![Website](https://img.shields.io/website?label=Main%20website&up_color=informational&url=https%3A%2F%2Fwww.mechapower.eu)
 ![Website](https://img.shields.io/website?label=Experimental%20site&up_color=informational&url=https%3A%2F%2Fexperimental.mechapower.eu)
+![Discord Main](https://img.shields.io/discord/677859688397930506?label=workplace&logo=discord&logoColor=white)
+![Discord Origins](https://img.shields.io/discord/954744788089991188?label=Origins%20SMP%20Community&logo=discord&logoColor=white)
