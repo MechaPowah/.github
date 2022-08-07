@@ -17,7 +17,7 @@ Visit https://www.mechapower.eu/contact for more info
 <!-- DEVELOPERS-LIST:END -->
 
 ## System status
-![Website](https://img.shields.io/website?label=Main%20website&up_color=informational&url=https%3A%2F%2Fwww.mechapower.eu)
-![Website](https://img.shields.io/website?label=Experimental%20site&up_color=informational&url=https%3A%2F%2Fexperimental.mechapower.eu)
+[![Website](https://img.shields.io/website?label=Main%20website&up_color=informational&url=https%3A%2F%2Fwww.mechapower.eu)](https://www.mechapower.eu)
+[![Website](https://img.shields.io/website?label=Experimental%20site&up_color=informational&url=https%3A%2F%2Fexperimental.mechapower.eu)](https://experimental.mechapower.eu)
 ![Discord Main](https://img.shields.io/discord/677859688397930506?label=workplace&logo=discord&logoColor=white)
 ![Discord Origins](https://img.shields.io/discord/954744788089991188?label=Origins%20SMP%20Community&logo=discord&logoColor=white)
