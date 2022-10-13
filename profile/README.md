@@ -12,7 +12,7 @@ Visit https://www.mechapower.eu/contact for more info
 <!-- DEVELOPERS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
- <a href="https://github.com/ddomino007"><img src="https://avatars.githubusercontent.com/u/23064460?v=4" width="50" height="50" alt=""/></a> <a href="https://github.com/WhenDawnEnds"><img src="https://avatars.githubusercontent.com/u/38332833?v=4" width="50" height="50" alt=""/></a> <a href="https://github.com/MatroskaMods"><img src="https://avatars.githubusercontent.com/u/94531272?v=4" width="50" height="50" alt=""/> <a href="https://github.com/Btomaek"><img src="https://avatars.githubusercontent.com/u/68543859?v=4" width="50" height="50" alt=""/><href="https://github.com/Xiknu"><img src="https://avatars.githubusercontent.com/u/115498625?v=4" width="50" height="50" alt=""/>
+ <a href="https://github.com/ddomino007"><img src="https://avatars.githubusercontent.com/u/23064460?v=4" width="50" height="50" alt=""/></a> <a href="https://github.com/WhenDawnEnds"><img src="https://avatars.githubusercontent.com/u/38332833?v=4" width="50" height="50" alt=""/></a> <a href="https://github.com/MatroskaMods"><img src="https://avatars.githubusercontent.com/u/94531272?v=4" width="50" height="50" alt=""/> <a href="https://github.com/Btomaek"><img src="https://avatars.githubusercontent.com/u/68543859?v=4" width="50" height="50" alt=""/><a href="https://github.com/Xiknu"><img src="https://avatars.githubusercontent.com/u/115498625?v=4" width="50" height="50" alt=""/>
 <!-- DEVELOPERS-LIST:END -->
 
 ## System status
