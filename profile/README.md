@@ -6,7 +6,7 @@ We provide help with music distribution, top-level domain email (@mechapower.eu)
 # Contact and socials
 Visit https://www.mechapower.eu/contact for more info
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtjMF7cFmoYqavwRc-xdW3g?label=Subscribe)](https://www.youtube.com/channel/UCtjMF7cFmoYqavwRc-xdW3g?sub_confirmation=1) [![Twitter Follow](https://img.shields.io/twitter/follow/mechapowah?label=Follow)](https://twitter.com/mechapowah) 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtjMF7cFmoYqavwRc-xdW3g?label=Subscribe)](https://www.youtube.com/channel/UCtjMF7cFmoYqavwRc-xdW3g?sub_confirmation=1) [![Twitter Follow](https://img.shields.io/twitter/follow/mechapowersa?label=Follow)](https://twitter.com/mechapowah) 
 ## Developers 
 
 <!-- DEVELOPERS-LIST:START - Do not remove or modify this section -->
